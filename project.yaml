@@ -1,0 +1,19 @@
+project_name: EasyPeasy
+project_shortcut: EP
+project_short_description: Imaginary data analysis
+project_extended_description: |
+    performing imaginary calculations based on a theoretical model and 
+    refining its parameters against experimental data
+project_copyright_years: 2021-2026
+project_homepage_url: https://easyscience.github.io/peasy
+
+home_repo_name: peasy
+
+lib_repo_name: peasy-lib
+lib_package_name: easypeasy
+lib_python_min: '3.9'
+lib_python_max: '3.12'
+lib_docs_url: https://easyscience.github.io/peasy-lib
+
+app_repo_name: peasy-app
+app_docs_url: https://easyscience.github.io/peasy-app
