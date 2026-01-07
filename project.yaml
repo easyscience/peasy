@@ -1,9 +1,9 @@
 project_name: EasyPeasy
 project_shortcut: EP
 project_short_description: Imaginary data analysis
-project_extended_description: |
-    For performing imaginary calculations based on a theoretical model and
-    refining its parameters against experimental data
+project_extended_description: >-
+  For performing imaginary calculations based on a theoretical model
+  and refining its parameters against experimental data
 project_copyright_years: 2021-2026
 
 home_repo_name: peasy
