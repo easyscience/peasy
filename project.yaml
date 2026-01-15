@@ -1,3 +1,4 @@
+# Main configuration
 project_name: EasyPeasy
 project_shortcut: EP
 project_short_description: Imaginary data analysis
@@ -6,14 +7,17 @@ project_extended_description: >-
   and refining its parameters against experimental data
 project_copyright_years: 2021-2026
 
+# Home repository settings
 home_repo_name: peasy
 homepage_url: https://easyscience.github.io/peasy
 
+# Library settings
 lib_repo_name: peasy-lib
-lib_package_name: easypeasy
+lib_package_name: easydiffraction # easypeasy
 lib_python_min: '3.11'
 lib_python_max: '3.13'
 lib_docs_url: https://easyscience.github.io/peasy-lib
 
+# Application settings
 app_repo_name: peasy-app
 app_docs_url: https://easyscience.github.io/peasy-app
