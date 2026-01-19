@@ -13,7 +13,7 @@ homepage_url: https://easyscience.github.io/peasy
 
 # Library settings
 lib_repo_name: peasy-lib
-lib_package_name: easydiffraction # easypeasy
+lib_package_name: easypeasy
 lib_python_min: '3.11'
 lib_python_max: '3.13'
 lib_docs_url: https://easyscience.github.io/peasy-lib
