@@ -8,18 +8,19 @@ project_extended_description: >-
 project_copyright_years: 2021-2026
 project_contact_email: support@easydiffraction.org
 
-# Home repository settings
-home_repo_name: peasy
-homepage_url: https://easyscience.github.io/peasy
+# Project / umbrella repository settings
+project_repo_name: peasy
+project_homepage_url: https://easyscience.github.io/peasy
 
 # Library settings
 lib_repo_name: peasy-lib
 lib_package_name: easypeasy
 lib_python_min: '3.11'
 lib_python_max: '3.13'
-lib_docs_url: https://easyscience.github.io/peasy-lib
 lib_doi: 10.5281/zenodo.16806521
+lib_docs_url: https://easyscience.github.io/peasy-lib
 
 # Application settings
 app_repo_name: peasy-app
+app_doi: 10.5281/zenodo.16806521
 app_docs_url: https://easyscience.github.io/peasy-app
