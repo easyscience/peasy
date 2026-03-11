@@ -27,7 +27,7 @@ This repository serves as the central hub for the **EasyPeasy** family.
 
 ### Useful Links:
 
-- 💡[Discussions](https://github.com/easyscience/) - the main
+- 💡[Discussions](https://github.com/easyscience/peasy) - the main
   discussion forum for the whole EasyPeasy project.
 
 <!-- NON-HOME REPOSITORY SECTION -->
